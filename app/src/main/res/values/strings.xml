@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Eu sou forte</string>
+    <string name="affirmation2">Eu acredito em mim mesmo</string>
+    <string name="affirmation3">Hoje é uma nova oportunidade para crescer e ser a minha melhor versão</string>
+    <string name="affirmation4">Todo desafio na minha vida é uma oportunidade para aprender mais</string>
+    <string name="affirmation5">Eu tenho muito a agradecer</string>
+    <string name="affirmation6">Coisas boas sempre acontecem na minha vida</string>
+    <string name="affirmation7">Novas oportunidades me aguardam a cada passo</string>
+    <string name="affirmation8">Eu tenho coragem para seguir meu coração</string>
+    <string name="affirmation9">As coisas acontecerão precisamente no tempo certo</string>
+    <string name="affirmation10">Estarei presente em todos os momentos que este dia trouxer</string>
 </resources>
