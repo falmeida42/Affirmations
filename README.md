@@ -1,6 +1,6 @@
 # Affirmations
 App that introduces list concepts in kotlin and recycleView to scroll the screen
 
-![image](https://drive.google.com/uc?export=view&id=1jUOJrINsaNz0o1iYsN4i6E06pxL4Z09P)
+![image](https://drive.google.com/uc?export=view&id=1iTp7eYCJdt60_iXPFuJS_ZSwwUy1LOMM)
 
-![image](https://drive.google.com/uc?export=view&id=1jOgjsXEgSvnv0DiXBQ6uvRGNdUbvMnv8)
+![image](https://drive.google.com/uc?export=view&id=1mJAXiHugSdnMh1gIgoGibkadwN_8yBNS)
